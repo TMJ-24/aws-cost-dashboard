@@ -9,9 +9,14 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@cloudscape-design/board-components": "^3.0.197",
+    "@cloudscape-design/components": "^3.0.1319",
+    "@cloudscape-design/design-tokens": "^3.0.99",
+    "@cloudscape-design/global-styles": "^1.0.61",
     "next": "16.2.9",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "recharts": "^3.9.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
